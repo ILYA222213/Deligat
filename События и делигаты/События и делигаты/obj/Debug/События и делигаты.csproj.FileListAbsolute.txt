@@ -1,0 +1,11 @@
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\bin\Debug\События и делигаты.exe.config
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\bin\Debug\События и делигаты.exe
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\bin\Debug\События и делигаты.pdb
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События и делигаты.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События и делигаты.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События_и_делигаты.Form1.resources
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События_и_делигаты.Properties.Resources.resources
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События и делигаты.csproj.GenerateResource.cache
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События и делигаты.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События и делигаты.exe
+C:\Users\ilruz\source\repos\События и делигаты\События и делигаты\obj\Debug\События и делигаты.pdb
